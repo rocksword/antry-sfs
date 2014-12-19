@@ -1,0 +1,3 @@
+Stock Forecast System
+1. Analyse 233 trading days' K line data.
+2. Provide next 233 days' K line according to mock input.
